@@ -123,6 +123,7 @@ class Tools {
             case "tl-PH": return "Tagalog";
             case "ta-IN": return "Tamil";
             case "uk-UA": return "Ukrainian";
+            case "ko-KR": return "Korean";
             default: return langCode;
         }
     }
